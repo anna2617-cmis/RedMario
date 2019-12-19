@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Plant
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Plant\ here.\r\n\ \r\n\ @author\ Young\ Il\ Kim\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Plant()
+comment2.params=
+comment2.target=void\ getKilled()
+comment3.params=dmg
+comment3.target=void\ deductHealth(int)
+comment3.text=\ @param\ dmg\ \ the\ amount\ of\ danmage\ taken\ from\ the\ Cirno\r\n\ \ \ @return\ a\ integer\ representing\ the\ left\ over\ health\ \r\n
+comment4.params=
+comment4.target=void\ changeDirection()
+comment4.text=change\ the\ moving\ direction\ and\ the\ img\ direction\ of\ the\ monster
+comment5.params=
+comment5.target=int\ getHealth()
+numComments=6

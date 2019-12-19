@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RecF
+comment1.params=
+comment1.target=RecF()
+comment2.params=num
+comment2.target=void\ setImg(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

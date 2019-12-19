@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Attackable
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Attackable\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ getKilled()
+comment1.text=remove\ the\ object\ that\ gets\ killed\ from\ the\ world
+comment2.params=dmg
+comment2.target=void\ deductHealth(int)
+comment2.text=\ @param\ dmg\ \ the\ amount\ of\ danmage\ taken\ from\ the\ Cirno\r\n\ \ \ @return\ a\ integer\ representing\ the\ left\ over\ health\ \r\n
+comment3.params=
+comment3.target=void\ changeDirection()
+comment3.text=change\ the\ moving\ direction\ and\ the\ img\ direction\ of\ the\ monster
+comment4.params=
+comment4.target=int\ getHealth()
+numComments=5
